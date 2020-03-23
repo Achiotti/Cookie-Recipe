@@ -34,4 +34,4 @@ _HTML, CSS_
 
 *Open source GLP*
 
-Copyright (c) 2016 **_{Epicodus and Andrea Chiotti_**
+Copyright (c) 2016 **_Epicodus and Andrea Chiotti_**
