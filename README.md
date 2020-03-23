@@ -2,7 +2,7 @@
 
 #### _A cookie recipe copied and used to practice HTML standards_
 
-#### By _**Epicodus and Andrea Chiotti}**_
+#### By _**Epicodus and Andrea Chiotti**_
 
 ## Description
 
