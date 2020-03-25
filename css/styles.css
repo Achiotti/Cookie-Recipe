@@ -1,0 +1,33 @@
+body {
+    background-image: url(/img/baking2.jpg) repeat 0 0;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: rgb(217,205,158); 
+  }
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h1 {
+  color: rgb(20,30,200);
+  text-align: center;
+  
+}
+h2{ 
+  font-style: italic;
+  text-align: center;
+}
+
+p{
+  font-family: sans-serif;
+}
+
+ul{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  line-height: 25px;
+}
